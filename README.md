@@ -13,7 +13,10 @@ This is a responsive website for SweetCrumbs Bakery, a local bakery business.
 5. Contact - contact.html
 
 ## Technologies Used
-HTML5, CSS3
+HTML5, CSS3, Visual Studio, GitHub, GitHub Pages
+
+## GitHub Repository Link
+https://github.com/mr-kgomo/SweetCrumbsBakery-1
 
 ## GitHub Pages Link
 https://mr-kgomo.github.io/SweetCrumbsBakery-1/
