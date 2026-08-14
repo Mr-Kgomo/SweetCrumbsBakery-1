@@ -1,5 +1,3 @@
-# SweetCrumbs Bakery Website
-
 Student: Kgomo Siphesihle 
 Course: WEDE5020  
 Part 1 Submission
