@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2e1d0b; /* dark cream bakery color */
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #d2691e; /* chocolate brown */
+}
+
+nav a {
+    text-decoration: none;
+    color: #d2691e;
+    padding: 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff69b4; /* pink on hover */
+}
+footer {
+    background-color: #8B4513; /* brown */
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    font-size: 14px;
+}
