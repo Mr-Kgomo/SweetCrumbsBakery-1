@@ -16,3 +16,4 @@ This is a responsive website for SweetCrumbs Bakery, a local bakery business.
 HTML5, CSS3
 
 ## GitHub Pages Link
+https://mr-kgomo.github.io/SweetCrumbsBakery-1/
