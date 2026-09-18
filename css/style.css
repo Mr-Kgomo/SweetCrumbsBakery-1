@@ -1,14 +1,14 @@
 
     body {
     font-family: Arial, sans-serif;
-    background-color: #f0eae4; /* cream bakery background */
+    background-color: #f0eae4;
     margin: 20px;
     color: #333;
 }
 
 
 h1 {
-    color: #d2691e; /* chocolate brown */
+    color: #d2691e;
 }
 
 nav a {
@@ -19,10 +19,10 @@ nav a {
 }
 
 nav a:hover {
-    color: #ff69b4; /* pink on hover */
+    color: #ff69b4; 
 }
 footer {
-    background-color: #8B4513; /* brown */
+    background-color: #8B4513;
     color: white;
     text-align: center;
     padding: 15px;
