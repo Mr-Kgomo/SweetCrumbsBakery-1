@@ -70,6 +70,29 @@ main {
 @media screen and (max-width: 600px) {
   main {
     flex-direction: column;
+
+
+@media (max-width: 600px) {
+  body {
+    display: block !important;
+  }
+
+  div, section {
+    display: block !important;
+    width: 100% !important;
+  }
+  img {
+    max-width: 100% !important;
+    margin-top: 10px;
+  }
+  nav {
+    font-size: 14px;
+    padding: 10px 5px !important;
+  }
+  nav a {
+    margin: 0 5px !important;
+  }
+}
   }
   nav a {
     display: block;
