@@ -1,8 +1,9 @@
-body {
+
+    body {
     font-family: Arial, sans-serif;
-    background-color: #f0eae4; /* dark cream bakery color */
-    text-align: center;
+    background-color: #f0eae4; /* cream bakery background */
     margin: 20px;
+    color: #333;
 }
 
 
