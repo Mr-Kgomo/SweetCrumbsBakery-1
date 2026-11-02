@@ -17,7 +17,7 @@ I fixed the footer to be the same in all pages
 I also fixed navigation responsiveness on mobile
 
 ### What was Added in Part 3:
-#### 1. JavaScript Functionality (Section 2)
+#### 1. JavaScript Functionality
 **aboutus.html**: Added FAQ accordion 
 **products.html**: Added search bar
 **contact.html**: Added interactive map, drag and zoom enabled
