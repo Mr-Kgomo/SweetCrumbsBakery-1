@@ -1,9 +1,12 @@
 Student: Kgomo Siphesihle 
 Course: WEDE5020  
-Part 2 Submission
+Part 3 Submission
 
 ## Website Description
 SweetCrumbs Bakery is a responsive bakery website for a small local bakery business. The site allows customers to view products, learn about the bakery and make enquiries.
+
+## Changelog
+
 
 ## Pages Included
 1. Home - index.html
