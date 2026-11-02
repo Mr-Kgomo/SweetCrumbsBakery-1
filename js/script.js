@@ -48,3 +48,14 @@ function whiteColor() {
 document.addEventListener("DOMContentLoaded", function() {
   setupAccordion();
 });
+
+function validateForm() {
+  var name = document.getElementById("name").value;
+  var email = document.getElementById("email").value;
+  if(name == "" || email == "") {
+    alert("Please fill in all required fields");
+    return false;
+  }
+  alert("Thank you! We will contact you about cost & availability.");
+  return true;
+}
